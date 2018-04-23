@@ -10,7 +10,7 @@ Este proyecto
 La idea básica es
 
 Licencia
-===
+---
 
 Se optó por usar una licencia MIT porque
 
