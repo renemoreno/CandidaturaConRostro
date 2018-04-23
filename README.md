@@ -1,6 +1,6 @@
-# CongresoConRostro
+# CandidaturaConRostro
 
-Proyecto para visibilización de las candidaturas a puestos de elección popular
+Proyecto para facilitar un voto informado de las candidaturas a puestos de elección popular.
 
 ¿Qué es?
 ---
