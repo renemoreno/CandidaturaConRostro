@@ -1,3 +1,5 @@
+# Estándar de Resume para Candidatos JSON
+
 Estándar, Especificación, Esquema
 
 Una versión 0.0.0 será lanzada siguiendo las mejores prácticas de [Semantic Versioning 2.0.0](SemVer.org). Experimentaremos con un sistema `migration.js`, donde cada cambio será representado con una versión que puede actualizar una versión anterior de `resume.json` a las versiones más recientes.
