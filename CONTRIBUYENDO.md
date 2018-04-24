@@ -1,6 +1,6 @@
 # Lineamientos para el contribuyente
 
-¡Nos alegra verte aquí! Agradecemos tu interés en contribuir a CandidaturaConRostro/OpenResume. Esta guía detalla como contribuir a CandidaturaConRostro/OpenResume de una forma que sea eficiente para todas las personas.
+¡Nos alegra verte aquí! Agradecemos tu interés en contribuir a CandidaturaConRostro. Esta guía detalla como contribuir a CandidaturaConRostro de una forma que sea eficiente para todas las personas.
 
 ### Código de Conducta
 
