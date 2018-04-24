@@ -4,7 +4,7 @@
 
 ### Código de Conducta
 
-Favor de notar que este proyecto es lanazado junto con un [Código de Conducta convenido para Contribuyentes](CODIGO_DE_CONDUCTA.md). Al participar en este proyecto tu te comprometes a acatar los términos del Código de Ética.  Por favor reporta cualquier comportamiento inaceptable a [wikichih@gmail.com](wikichih@gmail.com). El [Código de Conducta convenido para Contribuyentes](https://github.com/Bantik/contributor_covenant) fue originalmente creado por [Coraline Ada Ehmke (Bantik)](https://github.com/Bantik).
+Favor de notar que este proyecto es lanzado junto con un [Código de Conducta convenido para Contribuyentes](CODIGO_DE_CONDUCTA.md). Al participar en este proyecto tu te comprometes a acatar los términos del Código de Ética.  Por favor reporta cualquier comportamiento inaceptable a [wikichih@gmail.com](wikichih@gmail.com). El [Código de Conducta convenido para Contribuyentes](https://github.com/Bantik/contributor_covenant) fue originalmente creado por [Coraline Ada Ehmke (Bantik)](https://github.com/Bantik).
 
 ### Creando un "issue"
 
