@@ -1,4 +1,4 @@
-# Estándar de Resume para Candidatos JSON
+# Estándar de Resume para Candidatos en JSON
 
 Estándar, Especificación, Esquema
 
@@ -6,4 +6,4 @@ Una versión 0.0.0 será lanzada siguiendo las mejores prácticas de [Semantic V
 
 ### Contribuir
 
-Invitamos a cualquier persona que este interesada en contribuir con la formación de este estándar a que siga las discusiones [aquí en github](https://github.com/renemoreno/CandidaturaConRostro/issues). Sientete libre de hacer fork a este proyecto y proponer nuevas ideas para agregar al Estándar de Resume para Candidatos JSON. Para asegurar que el formato es correcto, por favor instala el [EditorConfig plugin](http://editorconfig.org/) para tu editor de preferencia.
+Invitamos a cualquier persona que este interesada en contribuir con la formación de este estándar a que siga las discusiones [aquí en github](https://github.com/renemoreno/CandidaturaConRostro/issues). Sientete libre de hacer fork a este proyecto y proponer nuevas ideas para agregar al Estándar de Resume para Candidatos en JSON. Para asegurar que el formato es correcto, por favor instala el [EditorConfig plugin](http://editorconfig.org/) para tu editor de preferencia.
