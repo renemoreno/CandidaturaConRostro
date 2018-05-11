@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarquista-Comunista",
+        "name": "Anarcocomunismo",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Comunista Libertario ",
+        "name": "Comunismo Libertario ",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxista",
+        "name": "Marxismo",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxista Libertario",
+        "name": "Marxismo Libertario",
         "stats": {
             "econ": 100,
             "dipl": 30,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Leninista",
+        "name": "Leninismo",
         "stats": {
             "econ": 100,
             "dipl": 40,
