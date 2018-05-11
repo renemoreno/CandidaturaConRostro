@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertino Comunista",
+        "name": "Comunista Libertario ",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertino Marxista",
+        "name": "Marxista Libertario",
         "stats": {
             "econ": 100,
             "dipl": 30,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Estalinismo /Maoísmo ",
+        "name": "Estalinismo/Maoísmo ",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socialismo Democratico",
+        "name": "Socialismo Democrático",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socialismo Libertino",
+        "name": "Socialismo Libertario",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarquista-Sindicalismo",
+        "name": "Anarcosindicalismo",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalsmo Social",
+        "name": "Liberalismo Social",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democracia cristiana",
+        "name": "Democracia Cristiana",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarquista-Mutualismo",
+        "name": "Anarcomutualismo",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Tecnocracía",
+        "name": "Tecnocracia",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "Centrismo",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Izquierda Populismo",
+        "name": "Populismo de Izquierda",
         "stats": {
             "econ": 40,
             "dipl": 30,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarquista-Egoista",
+        "name": "Anarcoegoísmo",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -324,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "Autocracy",
+        "name": "Autocracia",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalista Fascista",
+        "name": "Capitalismo Fascista",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalita Autoritario",
+        "name": "Capitalismo Autoritario",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name":  "Estado Capitalista",
+        "name": "Estado Capitalista",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalismo Libertino",
+        "name": "Capitalismo Libertario",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -441,7 +441,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalista Totalitarismo",
+        "name": "Capitalismo Totalitario",
         "stats": {
             "econ": 0,
             "dipl": 30,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarquista-Capitalista",
+        "name": "Anarcocapitalista",
         "stats": {
             "econ": 0,
             "dipl": 50,
